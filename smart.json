@@ -1,0 +1,9 @@
+{
+	"name": "folktale-data-future",
+	"description": "Folktale data.future. A monad for time-dependant values, providing explicit effects for delayed computations, latency, etc.",
+	"homepage": "https://github.com/bompi88/folktale-data-future",
+	"author": "Bjørn Bråthen <bjorbrat88@gmail.com>",
+	"version": "2.2.0",
+	"git": "https://github.com/bompi88/folktale-data-future.git",
+	"packages": {}
+}

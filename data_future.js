@@ -1,0 +1,1 @@
+Future = Npm.require('data.future');
