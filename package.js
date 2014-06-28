@@ -7,7 +7,7 @@ Npm.depends({
 });
 
 Package.on_use(function (api, where) {
-	if(api.export)
+	
 		api.export("Future");
 	
 	where = where || ["client", "server"];
@@ -15,7 +15,7 @@ Package.on_use(function (api, where) {
 });
 
 Package.on_test(function (api) {
-	api.use(["Future", "tinytest", "testhelpers"]);
+	api.use(["folktale-data-future", "tinytest", "test-helpers"]);
 
 	api.add_files("data_future.js", ["client", "server"]);
 });
