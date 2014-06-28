@@ -3,7 +3,7 @@ Data.Future
 
 [![Build Status](https://secure.travis-ci.org/bompi88/folktale-data-future.png?branch=master)](https://travis-ci.org/bompi88/folktale-data-future)
 
-This package wraps the Folktale`s Npm-module [data.future][npm].
+This package wraps the Folktale`s Npm-module [data.future][npm] for Meteor.js.
 
 The `Future(a, b)` structure represents values that depend on time. This allows one
 to model time-based effects explicitly, such that one can have full knowledge
