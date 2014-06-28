@@ -17,5 +17,5 @@ Package.on_use(function (api, where) {
 Package.on_test(function (api) {
 	api.use(["folktale-data-future", "tinytest", "test-helpers"]);
 
-	api.add_files("data_future.js", ["client", "server"]);
+	api.add_files(["data_future.js", "data_future_tests.js"], ["client", "server"]);
 });
