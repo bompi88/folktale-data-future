@@ -85,6 +85,6 @@ Copyright (c) 2013-2014 Quildreen Motta.
 Released under the [MIT licence](https://github.com/folktale/data.future/blob/master/LICENCE).
 
 <!-- links -->
-[npm]; https://github.com/folktale/data.future
+[npm]: https://github.com/folktale/data.future
 [docs]: http://folktale.github.io/data.future
 [CPS]: http://matt.might.net/articles/by-example-continuation-passing-style/
